@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "title": "Bright",
+      "year": 2017,
+      "director": "David Ayer",
+      "duration": "117 min",
+      "genres": ["Action", "Crime", "Fantasy"],
+      "description": "Set in a world where fantasy creatures live side by side with humans. A human cop is forced to work with an Orc to find a weapon everyone is prepared to kill for...",
+      "imageUrl": "/brightMovieImg.jpeg",
+      "rating": 6.3
+    },
+    {
+      "id": 2,
+      "title": "Tomb Raider",
+      "year": 2018,
+      "director": "Roar Uthaug",
+      "duration": "125 min",
+      "genres": ["Action", "Fantasy"],
+      "description": "Lara Croft, the fiercely independent daughter of a missing adventurer, must push herself beyond her limits....",
+      "imageUrl": "/Tomb Raider movie img.jpeg",
+      "rating": 6.4
+    },
+    {
+      "id": 3,
+      "title": "Inception",
+      "year": 2010,
+      "director": "Christopher Nolan",
+      "duration": "148 min",
+      "genres": ["Action", "Sci-Fi", "Thriller"],
+      "description": "A thief who steals corporate secrets through dream-sharing technology is tasked with planting an idea in a target's subconscious...",
+      "imageUrl": "/Inception Img.jpeg",
+      "rating": 8.8
+    },
+    {
+      "id": 4,
+      "title": "The Dark Knight",
+      "year": 2008,
+      "director": "Christopher Nolan",
+      "duration": "152 min",
+      "genres": ["Action", "Crime", "Drama"],
+      "description": "Batman must accept one of the greatest psychological and physical challenges when he faces the Joker...",
+      "imageUrl": "/The Dark Knight.jpeg",
+      "rating": 9.0
+    },
+    {
+      "id": 5,
+      "title": "Interstellar",
+      "year": 2014,
+      "director": "Christopher Nolan",
+      "duration": "169 min",
+      "genres": ["Adventure", "Drama", "Sci-Fi"],
+      "description": "A team of explorers travels through a wormhole in space in an attempt to ensure humanity's survival.",
+      "imageUrl": "/Interstellar.jpeg",
+      "rating": 8.6
+    },
+    {
+      "id": 6,
+      "title": "Avatar",
+      "year": 2009,
+      "director": "James Cameron",
+      "duration": "162 min",
+      "genres": ["Action", "Adventure", "Fantasy"],
+      "description": "A paraplegic Marine is sent to the moon Pandora on a unique mission and becomes torn between following orders and protecting the world he feels is his home...",
+      "imageUrl": "/Avatar.jpeg",
+      "rating": 7.9
+    },
+    {
+      "id": 7,
+      "title": "The Matrix",
+      "year": 1999,
+      "director": "The Wachowskis",
+      "duration": "136 min",
+      "genres": ["Action", "Sci-Fi"],
+      "description": "A computer hacker learns about the true nature of reality and his role in the war against its controllers.",
+      "imageUrl": "/The Matrix.jpeg",
+      "rating": 8.7
+    },
+    {
+      "id": 8,
+      "title": "The Avengers",
+      "year": 2012,
+      "director": "Joss Whedon",
+      "duration": "143 min",
+      "genres": ["Action", "Adventure", "Sci-Fi"],
+      "description": "Earth's mightiest heroes must come together to stop a powerful enemy from destroying the planet.",
+      "imageUrl": "/The Avengers.jpeg",
+      "rating": 8.0
+    },
+    {
+      "id": 9,
+      "title": "Parasite",
+      "year": 2019,
+      "director": "Bong Joon Ho",
+      "duration": "132 min",
+      "genres": ["Comedy", "Drama", "Thriller"],
+      "description": "A poor family schemes to become employed by a wealthy family and infiltrate their household by posing as unrelated, highly qualified individuals...",
+      "imageUrl": "/Parasite.jpeg",
+      "rating": 8.6
+    }
+    
+  ]
+  

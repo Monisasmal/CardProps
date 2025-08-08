@@ -47,6 +47,18 @@ This project demonstrates:
 
 ---
 
+## 🔄 Deployment on Vercel
+
+Push your code to GitHub
+
+Connect your GitHub repo to Vercel (https://vercel.com/import)
+
+Set build command as npm run build and output directory as build/
+
+Your project is now live 🚀
+
+---
+
 ## 📦 Installation Instructions
 
 To run this project locally:
